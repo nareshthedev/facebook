@@ -15,7 +15,7 @@ public class Connections {
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) {
+	public static void main(String[] argssss) {
 		FacebookClient facebookClient = new DefaultFacebookClient("CAADfeK9tc9sBAHEpoZAyMC8FuCBfJBC0bJIcqpf6VsvIZAw0ZAybHNlo6PPIabK7zJCYnnFGGNwItXU5NfrAyUzAAZBsjQwn9RjgleZBoI0DLZC86qHpEbZArcHWCZBG0CSojFGwRZAG7Dcal0A5PFDZCYmGwoZCkayHy8ZBum6zZAjNAWmu6MyRJzgnZCZCg7zKvsneuIZD");
 
 		// It's also possible to create a client that can only access
