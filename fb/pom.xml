@@ -4,6 +4,10 @@
   <artifactId>fb</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
-  
+      <dependency>
+  <groupId>com.restfb</groupId>
+  <artifactId>restfb</artifactId>
+  <version>1.6.12</version>
+</dependency>
 </dependencies>
 </project>
